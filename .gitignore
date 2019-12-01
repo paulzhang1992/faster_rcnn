@@ -1,3 +1,7 @@
 Dataset/
 proposal.docx
 Report.docx
+model_vgg_config.pickle
+model_vgg_config11.pickle
+model/
+.ipynb_checkpoints/
